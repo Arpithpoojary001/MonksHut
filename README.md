@@ -32,4 +32,4 @@ Welcome to my comprehensive quality assurance portfolio! This repository tracks 
 ## 💻 Tech Stack & Tools Showcase
 * **Testing Typologies:** Functional UI Testing, System Integration Testing (SIT), API Automation, E2E Regression, Performance/Load Testing.
 * **Automation & DevOps Tools:** Playwright, Postman, Jenkins, Docker, Apache JMeter, Jira, Git, GitHub.
-* **Core Languages:** JavaScript, Node.js, SQL.
+* **Core Languages:** JavaScript, Node.js, SQL,python,java,.net.
