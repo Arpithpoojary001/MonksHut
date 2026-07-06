@@ -15,6 +15,9 @@ Welcome to my comprehensive quality assurance portfolio! This repository tracks 
 * **API Foundations:** Validating CRUD Operations across `GET`, `POST`, `PUT`, and `DELETE` endpoints.
 * **Automation Checks:** Developed custom JavaScript assertions checking for status codes, response times, and specific JSON payload structures.
 * **Data Management:** Implemented dynamic Environment and Global Variables to ensure scalable, data-driven API test suites.
+### Test Execution Verification
+    Below is the verification capture showingthe automated test assertions executing and passing successfully inside the Postman collection Runner:
+    ![Postman Test Execution Summary](images/postman_runner.png)
 
 ### 🎭 Playwright Web Automation (JavaScript & Node.js)
 * **Environment Setup:** Configured Node.js execution environments and organized test suites within modern IDEs.
